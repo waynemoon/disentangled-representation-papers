@@ -2,18 +2,24 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 
 ## 2018 
 
+* ? Learning Deep Representations by Mutual Information Estimation and Maximization (Aug, Hjelm et. al.) [[paper]](https://arxiv.org/abs/1808.06670)
+* ? Life-Long Disentangled Representation Learning with Cross-Domain Latent Homologies (Aug, Achille et. al.) [[paper]](https://arxiv.org/abs/1808.06508)
 * ? Insights on Representational Similarity in Neural Networks with Canonical Correlation (Jun, Morcos et. al.) [[paper]](https://arxiv.org/abs/1806.05759)
 * ** Sequential Attend, Infer, Repeat: Generative Modelling of Moving Objects (Jun, Kosiorek et. al.) [[paper]](https://arxiv.org/abs/1806.01794)
 * __***__ Neural Scene Representation and Rendering (Jun, Eslami et. al.) [[paper]](https://deepmind.com/research/publications/neural-scene-representation-and-rendering/)
 * ? Image-to-image translation for cross-domain disentanglement (May, Gonzalez-Garcia et. al.) [[paper]](https://arxiv.org/abs/1805.09730)
 * \* Learning Disentangled Joint Continuous and Discrete Representations (May, Dupont) [[paper]](https://arxiv.org/abs/1804.00104) [[code]](https://github.com/Schlumberger/joint-vae)
+* ? DGPose: Disentangled Semi-supervised Deep Generative Models for Human Body Analysis (Apr, Bem et. al.) [[paper]](https://arxiv.org/abs/1804.06364)
 * ? Structured Disentangled Representations (Apr, Esmaeili et. al.) [[paper]](https://arxiv.org/abs/1804.02086)
+* ? Disentangling Factors of Variation with Cycle-Consistent Variational Auto-Encoders (Apr, Jha et. al.)[[paper]](https://arxiv.org/abs/1804.10469) [[code]](https://github.com/ananyahjha93/cycle-consistent-vae)
 * ** Understanding disentangling in β-VAE (Apr, Burgess et. al.) [[paper]](https://arxiv.org/abs/1804.03599)
+* ? On the importance of single directions for generalization (Mar, Morcos et. al.) [[paper]](https://arxiv.org/abs/1803.06959)
 * ** Unsupervised Representation Learning by Predicting Image Rotations (Mar, Gidaris et. al.) [[paper]](https://arxiv.org/abs/1803.07728)
 * ? Disentangled Sequential Autoencoder (Mar, Li & Mandt) [[paper]](https://arxiv.org/abs/1803.02991)
 * __***__ Isolating Sources of Disentanglement in Variational Autoencoders (Mar, Chen et. al.) [[paper]](https://arxiv.org/abs/1802.04942v2) [[code]](https://github.com/rtqichen/beta-tcvae)
 * ** Disentangling by Factorising (Feb, Kim & Mnih) [[paper]](https://arxiv.org/abs/1802.05983)
 * ** Disentangling the Independently Controllable Factors of Variation by Interacting with the World (Feb, Bengio's group) [[paper]](https://arxiv.org/abs/1802.09484)
+* ? On the Latent Space of Wasserstein Auto-Encoders (Feb, Rubenstein et. al.) [[paper]](https://arxiv.org/abs/1802.03761)
 * ? Auto-Encoding Total Correlation Explanation (Feb, Gao et. al.) [[paper]](https://arxiv.org/abs/1802.05822v1)
 * ? Fixing a Broken ELBO (Feb, Alemi et. al.) [[paper]](https://arxiv.org/abs/1711.00464)  
 * \* Learning Disentangled Representations with Wasserstein Auto-Encoders (Feb, Rubenstein et. al.) [[paper]](https://openreview.net/forum?id=Hy79-UJPM)
@@ -50,13 +56,16 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * ** InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets (Jun, Chen et. al.) [[paper]](https://arxiv.org/abs/1606.03657)
 * __***__ Attend, Infer, Repeat: Fast Scene Understanding with Generative Models (Mar, Eslami et. al.) [[paper]](https://arxiv.org/abs/1603.08575?context=cs)
 * __***__ Building Machines That Learn and Think Like People (Apr, Lake et. al.) [[paper]](https://arxiv.org/abs/1604.00289)
+* \* Understanding Visual Concepts with Continuation Learning (Feb, Whitney et. al.) [[paper]](https://arxiv.org/abs/1602.06822)
 * ? Disentangled Representations in Neural Models (Feb, Whitney) [[paper]](https://arxiv.org/abs/1602.02383v1)
 
 ## Older work
 
 * ** Deep Convolutional Inverse Graphics Network (2015, Kulkarni et. al.) [[paper]](https://arxiv.org/abs/1503.03167)
+* ? Learning to Disentangle Factors of Variation with Manifold Interaction (2014, Reed et. al.) [[paper]](http://proceedings.mlr.press/v32/reed14.pdf)
 * __***__ Representation Learning: A Review and New Perspectives (2013, Bengio et. al.) [[paper]](https://arxiv.org/abs/1206.5538?context=cs)
 * ? Disentangling Factors of Variation via Generative Entangling (2012, Desjardinis et. al.) [[paper]](https://arxiv.org/abs/1210.5474)
+* __***__ Transforming Auto-encoders (2011, Hinton et. al.) [[paper]](https://www.cs.toronto.edu/~fritz/absps/transauto6.pdf)
 * ** Learning Factorial Codes By Predictability Minimization (1992, Schmidhuber) [[paper]](https://www.mitpressjournals.org/doi/pdf/10.1162/neco.1992.4.6.863)
 * __***__ Self-Organization in a Perceptual Network (1988, Linsker) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=36)
 
@@ -64,3 +73,4 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 
 * Building Machines that Learn & Think Like People (2018, Tenenbaum) [[youtube]](https://www.youtube.com/watch?v=RB78vRUO6X8&t=1807s)
 * From Deep Learning of Disentangled Representations to Higher-level Cognition (2018, Bengio) [[youtube]](https://www.youtube.com/watch?v=Yr1mOzC93xs)
+* What is wrong with convolutional neural nets? (2017, Hinton) [[youtube]](https://www.youtube.com/watch?v=rTawFwUvnLE&t=2152s)
